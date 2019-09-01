@@ -7,7 +7,7 @@ spring:
         git:
           uri: https://github.com/lyy2002/spring-cloud-config-repo
           username: 20023930@qq.com
-          password: a6998546321
+          password: 123456
           basedir: C:\lyy\ideaProject\own\2019\spring-cloud-demo\config-repo
   rabbitmq:
     host: localhost
